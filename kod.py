@@ -5,7 +5,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import aiohttp
 from bs4 import BeautifulSoup
 
-API_TOKEN = '7243224291:AAGf1KQjdeDEs9F6HdGKpInSOsoGSE_imBg'  # Укажите ваш токен
+API_TOKEN = '7945272405:AAGKKMHbM03h8qaiYwkqsG7CGk_afJSashA'  # Укажите ваш токен
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
